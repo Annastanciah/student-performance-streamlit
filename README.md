@@ -1,7 +1,7 @@
 🎓 Student Performance Prediction System
 
 Author: Annastanciah Tong'i
-Project Type: Machine Learning Final Year Project
+Project Type: Machine Learning Project
 Deployment: Streamlit Web Application
 
 📌 Project Overview
