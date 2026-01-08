@@ -2,3 +2,7 @@ streamlit
 pandas
 scikit-learn
 numpy
+matplotlib
+sqlite3
+hashlib
+
